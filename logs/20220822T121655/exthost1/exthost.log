@@ -1,0 +1,18 @@
+[2022-08-22 12:17:00.097] [exthost] [info] Extension host with pid 13522 started
+[2022-08-22 12:17:00.097] [exthost] [info] Skipping acquiring lock for /var/www/html/officework/Cue/User/workspaceStorage/36a9a26c5542df640ea1c311786e2261.
+[2022-08-22 12:17:00.460] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-08-22 12:17:00.488] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.github
+[2022-08-22 12:17:00.503] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-08-22 12:17:00.596] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-08-22 12:17:00.676] [exthost] [info] Eager extensions activated
+[2022-08-22 12:17:00.679] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-08-22 12:17:00.744] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-08-22 12:17:00.754] [exthost] [info] ExtensionService#_doActivateExtension dsznajder.es7-react-js-snippets, startup: false, activationEvent: 'onStartupFinished'
+[2022-08-22 12:17:01.758] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'api', root cause: vscode.github
+[2022-08-22 12:17:01.878] [exthost] [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint, startup: false, activationEvent: 'onStartupFinished'
+[2022-08-22 12:17:14.346] [exthost] [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+[2022-08-22 12:17:14.482] [exthost] [info] ExtensionService#_doActivateExtension Angular.ng-template, startup: false, activationEvent: 'onLanguage:html'
+[2022-08-22 12:21:14.990] [exthost] [info] ExtensionService#_doActivateExtension vscode.css-language-features, startup: false, activationEvent: 'onLanguage:css'
+[2022-08-22 14:19:50.899] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:javascript'
+[2022-08-22 18:14:42.467] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 345
+[2022-08-22 18:16:40.938] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 345

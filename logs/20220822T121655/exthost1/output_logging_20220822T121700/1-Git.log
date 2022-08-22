@@ -1,0 +1,16 @@
+[2022-08-22T06:47:01.921Z] Validating found git in: git
+[2022-08-22T06:47:01.963Z] Using git 2.25.1 from git
+[2022-08-22T12:44:42.379Z] > git rev-parse --git-dir [2ms]
+[2022-08-22T12:44:42.389Z] Open repository: /var/www/html/officework/Cue
+[2022-08-22T12:44:42.428Z] > git symbolic-ref --short HEAD [1ms]
+[2022-08-22T12:44:42.437Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master [2ms]
+[2022-08-22T12:44:42.456Z] > git remote --verbose [3ms]
+[2022-08-22T12:44:42.456Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [12ms]
+[2022-08-22T12:44:42.629Z] > git config --get commit.template [142ms]
+[2022-08-22T12:44:42.868Z] > git ls-files --stage -- /var/www/html/officework/Cue/assets/style/style.css [1ms]
+[2022-08-22T12:46:40.903Z] > git symbolic-ref --short HEAD [2ms]
+[2022-08-22T12:46:40.913Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master [1ms]
+[2022-08-22T12:46:40.930Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [10ms]
+[2022-08-22T12:46:40.930Z] > git remote --verbose [2ms]
+[2022-08-22T12:46:40.961Z] > git ls-files --stage -- /var/www/html/officework/Cue/assets/style/style.css [10ms]
+[2022-08-22T12:46:40.964Z] > git config --get commit.template [4ms]

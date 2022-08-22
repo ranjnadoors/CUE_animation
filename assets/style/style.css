@@ -1,0 +1,93 @@
+html {
+  scroll-behavior: smooth;
+  overflow-x: hidden;
+}
+#logo{
+  height: 80vh;
+  background: White;
+  justify-content: center;
+  display: flex;
+  align-items: center;
+  
+}
+.cue{
+  color: aquamarine;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 100px;
+  font-weight: 700;
+}
+#arrow{
+  color: aquamarine;
+  position: absolute;
+  right: 0;
+  font-size: 50px;
+  font-weight: 300;
+  
+    transform: rotate(45deg);
+    -webkit-transform: rotate(90deg);
+ 
+}
+#arrow a{
+  text-decoration: none;
+  color: aquamarine;
+}
+#navbar {
+  background-color: #333;
+  position: fixed;
+  z-index: 99;
+  top: -55px;
+  width: 100%;
+  display: block;
+  transition: top 0.8s;
+}
+
+#navbar a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 15px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+#navbar a:hover {
+  background-color: #ddd;
+  color: black;
+}
+h1{
+  font-size: 119px;
+  font-weight: 900;
+  font-family: monospace;
+}
+.bg-primary{
+  height: 60vh;
+}
+.dis-btn{
+  background-color: rgb(32, 182, 219);
+  border: transparent;
+  border-radius: 20px;
+}
+h2{
+  font-size: 75px;
+  font-weight: 600;
+  font-family: monospace;
+  letter-spacing: -5px;
+}
+.footer{
+  background-color: aqua;
+}
+.c{
+  margin-top: 50%;
+  font-size: 190px;
+}
+.u{
+  margin-top: 40%;
+  font-size: 190px;
+}
+.e{
+  margin-top: 30%;
+  font-size: 190px;
+}
